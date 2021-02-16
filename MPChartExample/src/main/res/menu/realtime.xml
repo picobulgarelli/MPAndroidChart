@@ -18,6 +18,10 @@
         android:title="@string/actionFeedMultiple">
     </item>
     <item
+        android:id="@+id/actionToggleCubic"
+        android:title="@string/actionToggleCubic">
+    </item>
+    <item
         android:id="@+id/actionSave"
         android:title="@string/actionSave">
     </item>
